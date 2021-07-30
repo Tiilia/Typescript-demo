@@ -1,0 +1,5 @@
+# garder tout les fichiers finissant par '.ts'
+!*.ts 
+
+# cacher tous les fichiers '.js'
+*.js
